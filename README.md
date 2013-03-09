@@ -1,9 +1,9 @@
-# Mou Puppet Module for Boxen
+# Evernote Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include mou
+include evernote
 ```
 
 ## Required Puppet Modules
