@@ -6,6 +6,6 @@
 class evernote {
   package { 'evernote':
     provider => 'appdmg',
-    source => 'http://evernote.com/download/get.php?file=EvernoteMacApp'
+    source => 'http://cdn1.evernote.com/mac/release/Evernote_400995.dmg'
   }
 }
