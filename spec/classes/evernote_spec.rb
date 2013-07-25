@@ -9,7 +9,7 @@ describe 'evernote' do
 
   it do
     should contain_package('evernote').with({
-      :source   => 'http://cdn1.evernote.com/mac/release/Evernote_401298.dmg',
+      :source   => 'http://cdn1.evernote.com/mac/release/Evernote_401587.dmg',
       :provider => 'appdmg_eula'
     })
   end
